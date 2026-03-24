@@ -1,3 +1,3 @@
 import 'package:flutter/material.dart';
 
-const KPrimaryColor = Colors.red;
+const KPrimaryColor = Colors.blue;
