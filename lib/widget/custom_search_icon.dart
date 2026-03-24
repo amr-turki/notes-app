@@ -16,7 +16,7 @@ class CustomSearchIcon extends StatelessWidget {
           borderRadius: BorderRadius.circular(15),
         ),
 
-        child: Icon(Icons.search, size: 24),
+        child: IconButton(onPressed: () {}, icon: Icon(Icons.search, size: 24)),
       ),
     );
   }
