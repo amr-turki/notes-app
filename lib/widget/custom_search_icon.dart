@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:notes_app/screen/edit_notes_screen.dart';
 
 class CustomSearchIcon extends StatelessWidget {
   const CustomSearchIcon({super.key, required this.icon});
